@@ -1,0 +1,11 @@
+let prenom = "William";
+let ville = "Montréal";
+ville = "Victoriaville";
+let age = 17;
+let nom = "Gagnon";
+let estConnecte = true;
+const PI = 3.1416;
+let circonference = 2 * PI * 4;
+let nomEleve = "Gagnon";
+let prenomEleve = "William";
+let ageEleve = 17;
